@@ -21,6 +21,8 @@ Sau 4 tuần, tự viết Dockerfile và chạy một ứng dụng cùng Postgre
 
 Đọc nhanh: [Docker là gì, cơ chế hoạt động và các lệnh thường dùng](buoi-01/tom-tat.md).
 
+Cấu hình thực hành: [docker.yaml](docker.yaml) chạy PHP 8.5.12, PostgreSQL, MySQL và Redis trên Ubuntu 24.04. Xem [hướng dẫn chạy](docker/README.md).
+
 ## Cách ghi nhận tiến độ
 
 Mỗi buổi lưu kiến thức, lệnh thực hành, lỗi gặp và câu trả lời ôn tập vào repo này. Chỉ đánh dấu hoàn thành khi người học đã chạy bài và xác nhận kết quả. Kết quả do trợ giảng chạy trong cloud được ghi riêng, không thay cho thực hành trên máy Windows của người học.
