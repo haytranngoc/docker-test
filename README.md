@@ -19,6 +19,8 @@ Sau 4 tuần, tự viết Dockerfile và chạy một ứng dụng cùng Postgre
 | --- | --- | --- |
 | 01 | Docker là gì; image và container; cài đặt trên Windows; `hello-world` | [Bài học](buoi-01/README.md) · [Bài tập](buoi-01/bai-tap.md) · [Kết quả minh họa](buoi-01/ket-qua-minh-hoa.md) |
 
+Đọc nhanh: [Docker là gì, cơ chế hoạt động và các lệnh thường dùng](buoi-01/tom-tat.md).
+
 ## Cách ghi nhận tiến độ
 
 Mỗi buổi lưu kiến thức, lệnh thực hành, lỗi gặp và câu trả lời ôn tập vào repo này. Chỉ đánh dấu hoàn thành khi người học đã chạy bài và xác nhận kết quả. Kết quả do trợ giảng chạy trong cloud được ghi riêng, không thay cho thực hành trên máy Windows của người học.
